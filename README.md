@@ -5,4 +5,4 @@ Description:
 
 
 Group Members:
-Caleb Beichner, Jayden Serenari, Shorya 
+Caleb Beichner, Jayden Serenari, Shorya Kohli
