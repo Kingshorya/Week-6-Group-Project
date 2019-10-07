@@ -1,0 +1,11 @@
+name = input("Enter your name: ")
+
+print("Hello " + name)
+
+age = int(input("Enter your age in years: "))
+
+ageInYears = int(input("Enter an amount of years: "))
+
+totalAge = (age + ageInYears)
+
+print(name + " will be " + str(totalAge) + " in " + str(ageInYears) + " years!")
